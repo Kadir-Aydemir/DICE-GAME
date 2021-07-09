@@ -1,0 +1,30 @@
+C:\Users\msı\source\repos\zar\zar\bin\Debug\zar.exe.config
+C:\Users\msı\source\repos\zar\zar\bin\Debug\zar.exe
+C:\Users\msı\source\repos\zar\zar\bin\Debug\zar.pdb
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.Form1.resources
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.Properties.Resources.resources
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.exe
+C:\Users\msı\source\repos\zar\zar\obj\Debug\zar.pdb
+C:\Users\msı\source\repos\ZAR OYUNU\zar\bin\Debug\zar.exe.config
+C:\Users\msı\source\repos\ZAR OYUNU\zar\bin\Debug\zar.exe
+C:\Users\msı\source\repos\ZAR OYUNU\zar\bin\Debug\zar.pdb
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.Form1.resources
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.Properties.Resources.resources
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.exe
+C:\Users\msı\source\repos\ZAR OYUNU\zar\obj\Debug\zar.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\bin\Debug\zar.exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\bin\Debug\zar.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\bin\Debug\zar.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.csprojAssemblyReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.Form1.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\51-ZAR OYUNU (yeni)\zar\obj\Debug\zar.pdb
